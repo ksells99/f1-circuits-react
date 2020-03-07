@@ -1,3 +1,9 @@
+body {
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+  background-attachment: fixed;
+  
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +42,33 @@
     transform: rotate(360deg);
   }
 }
+
+.search-bar {
+  width: 70%;
+  max-width: 700px;
+  background-color: white;
+}
+
+select option {
+  background-color: white;
+}
+
+img {
+ 
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 30px;
+  padding: 0px 2px 0px 2px;
+}
+
+.display-4 {
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+img {
+  padding: 0px 6px 0px 6px;
+}
+
